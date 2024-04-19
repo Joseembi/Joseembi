@@ -18,7 +18,8 @@ Soy un apasionado desarrollador de software con experiencia en diversas tecnolog
 - 🔧 **Herramientas:** Bootstrap, Font Awesome Icons
 
 ## Intereses
-Me apasiona la industria del desarrollo de videojuegos, donde puedo combinar mi creatividad con mis habilidades técnicas. Además, tengo un pasatiempo relacionado con la creación de contenido en plataformas como YouTube y Twitch, donde disfruto compartiendo mi conocimiento y experiencias con la comunidad.
+Me apasiona la industria del desarrollo de videojuegos, donde puedo combinar mi creatividad con mis habilidades técnicas. Además, tengo un pasatiempo relacionado con la creación de contenido en plataformas como YouTube y Twitch, 
+donde disfruto compartiendo mi conocimiento y experiencias con la comunidad.
 
 ## Contacto
 
